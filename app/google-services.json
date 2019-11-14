@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60607459056",
+    "firebase_url": "https://lgs-puan-hesaplama.firebaseio.com",
+    "project_id": "lgs-puan-hesaplama",
+    "storage_bucket": "lgs-puan-hesaplama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60607459056:android:4b48365ce17dbeb3619c35",
+        "android_client_info": {
+          "package_name": "com.example.lgspuanhesaplama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60607459056-267c25pa60v4fj1809800e5tdmp9gj4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lgspuanhesaplama",
+            "certificate_hash": "ed36d24b755f29b613fd0ebcddba51de85762bb1"
+          }
+        },
+        {
+          "client_id": "60607459056-60r8d1rsg1v8ndo90gge1mvibt72gnta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPcTnWJv089TWMWoX_5jCH-ftVOazCpgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60607459056-60r8d1rsg1v8ndo90gge1mvibt72gnta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
