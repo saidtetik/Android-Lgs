@@ -23,6 +23,5 @@ public class result extends AppCompatActivity {
         ((TextView)findViewById(R.id.ingnet)).setText(String.format("%.2f",i.getDoubleExtra("ingnet",0.00)));
         ((TextView)findViewById(R.id.dinnet)).setText(String.format("%.2f",i.getDoubleExtra("dinnet",0.00)));
         ((TextView)findViewById(R.id.puan)).setText(String.format("%.2f",i.getDoubleExtra("puan",0.00)));
-
     }
 }
