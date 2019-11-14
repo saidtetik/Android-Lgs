@@ -14,7 +14,6 @@ public class result extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
-
         Intent i = getIntent();
         ((TextView)findViewById(R.id.turkcenet)).setText(String.format("%.2f",i.getDoubleExtra("turkcenet",0.00)));
         ((TextView)findViewById(R.id.matnet)).setText(String.format("%.2f",i.getDoubleExtra("matnet",0.00)));
