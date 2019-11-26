@@ -1,8 +1,9 @@
-# LGS PUAN HESAPLAMA  UYGULAMASI
-
+# LGS PUAN HESAPLAMA 
 * Girilen dogru yanliş sayilarina gore ogrencinin netlerini ve puanini hesaplamaktadir.
-* Mobil uygulamamda 3 tane sayfa kullanilmistir.
-* Her bir activity\'e bir class tanimlanmasina ek olarak bir class'ta
-  - notlari ve netleri tutmak ve bu class sayesinde activityeler
-  - arasinda veri gecisi saglanmistir.
-* Uygulama Android Studio IDE\'sinde gelistirilmistir.
+* Uygulama Android Studio IDE\'sinde gelistirilmistir.<br />
+  ![Android Studio](https://github.com/saidtetik/Java-Android-Lgs/blob/master/android-studio.jpg)
+## Uygulama Demo 
+ ![](https://github.com/saidtetik/Java-Android-Lgs/blob/master/app/src/main/LGSPuanHesaplama.gif)
+ 
+* Nesne yönelimli programlama pekistirilmistir.
+* Inheritance ve abstraction gibi yapilar kullanilmistir.
